@@ -12,7 +12,7 @@ class Globals:
 		
 	}
 	strip = 'EpTitle,PreviewTitle,tri4'
-	template = "{timecode} - {style}: "
+	template = u"{timecode} - {style}: "
 	timeformat = "{hours}:{minutes}:{seconds}"
 
 	@classmethod
@@ -46,7 +46,7 @@ def maketranscription(options):
 	#1 styles
 	#2 events
 	output = options.output
-	
+	template = options.template.decode("utf-8")
 	for line in codopen(options.infile, "rb", "utf-8"):
 		line = line.strip()
 		if line == "": 
@@ -89,7 +89,7 @@ def maketranscription(options):
 			
 			text = fields[9]
 			#build text proper
-			output.write(options.template.format(style=style, timecode=time))
+			output.write(template.format(style=style, timecode=time))
 			escape = False
 			comment = False
 			index = 0
