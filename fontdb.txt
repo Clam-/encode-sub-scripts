@@ -1,0 +1,45 @@
+Doradani Rg|Doradani_Rg_Bold.ttf
+S2G らぶ|love.ttf
+小塚ゴシック Pro B|KozGoPro-Bold.otf
+Angelina|angelina.ttf
+Tahoma|tahoma.ttf
+tahoma|tahoma.ttf
+ＭＳ 明朝|MSMINCHO.TTF
+MSMINCHO.TTF|MSMINCHO.TTF
+BokutohNStd-Medium|A-OTF-BokutohNStd-Medium.otf
+小塚ゴシック Pr6N M|KozGoPr6N-Medium.otf
+Vesta|Vesta-Bold.otf
+Xerox Serif Wide|Xerox_Serif_Wide.ttf
+Headache|HEADACHE.TTF
+Arial Rounded MT Bold Eclipse 2|ARRBD_ECL2(2).ttf
+Kozuka Mincho Pro H|KozMinPro-Heavy_0.otf
+MidashiGoPro-MB31|A-OTF-MidashiGoPro-MB31.otf
+Mona|mona.ttf
+Balzano|Balzano.otf
+Decipher|decipher.ttf
+FOT-Greco Std DB|FOT-GrecoStd-DB.otf
+Imprint MT Shadow|IMPRISHA.TTF
+Pristina|PRISTINA.TTF
+Arial Unicode MS|ARIALUNI.TTF
+Aharoni|ahronbd.ttf
+Alberta|Alberta Regular.otf
+AR CENA|ARCENA.ttf
+Coaster|COASBL_.ttf
+Arial Rounded MT Bold Eclipse 2|ARRBD_ECL2(2).ttf
+Kristen ITC|Kristen.ttf
+Impressed|Impressed.ttf
+BakuShinn|Bakuman Shinn Medium.ttf
+Aller|Aller_Rg.ttf
+FOT-グレコ Std M|FOT-GrecoStd-M.otf
+Segoe Print|segoepr.ttf
+Segoe Print|segoeprb.ttf
+MadokaRunes|MadokaRunes.ttf
+Accolade|Accolade Regular.ttf
+Arista 2.0|Arista2.0.ttf
+BoltonLight|BoltonLight.ttf
+Elphinstone™|ELPHIN.TTF
+Calligrapher|Calligra.ttf
+paintypaint|PAINP__.TTF
+Dream Orphans|dreamorp.tff
+Bailey MF|BAILEYMF.TTF
+小塚ゴシック Pr6N B|KozGoPr6N-Bold.otf
